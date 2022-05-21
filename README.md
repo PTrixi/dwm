@@ -1,5 +1,9 @@
 ## How to use?
-
+Clone it to your .config directory.
 ```bash
-git clone https://github.com/PTrixi/dwm.git
+git clone https://github.com/PTrixi/dwm.git ~/.config
+```
+If you dont have a directory called .config, just make it.
+```bash
+mkdir ~/.config
 ```
